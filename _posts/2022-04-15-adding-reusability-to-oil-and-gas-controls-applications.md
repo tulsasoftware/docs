@@ -2,9 +2,9 @@
 layout: post
 title: ADDING REUSABILITY TO OIL & GAS CONTROLS APPLICATIONS
 subtitle: Leveraging IIoT In Practice by Corey Thompson
-cover-img: /assets/img/genesis-system.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/genesis-system.png
+thumbnail-img: ""
+share-img: /assets/img/genesis-system.png
 tags: [iiot, iot, mqtt, weimueller, arduino, hmi]
 ---
 
