@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 
+title: Docs
 
 # Your name to show in the footer
 author: Corey Thompson
@@ -20,7 +20,6 @@ author: Corey Thompson
 ###############################################
 
 navbar-links:
-  Projects: "https://tulsasoftware.github.io/docs/"
   Blog: "https://tulsasoftware.github.io/docs/blog/"
 
 
