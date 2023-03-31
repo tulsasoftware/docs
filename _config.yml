@@ -20,8 +20,8 @@ author: Corey Thompson
 ###############################################
 
 navbar-links:
-  Tulsa Software Home: "https://www.tulsasoftware.com"
-  Blog: "https://www.tulsasoftware.com/blog"
+  Projects: "https://www.tulsasoftware.github.io/docs/"
+  Blog: "https://tulsasoftware.github.io/docs/blog/"
 
 
 ################
@@ -92,7 +92,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "TulsaSoftware.com"
+url-pretty: "TulsaSoftware.github.io/docs/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -128,11 +128,11 @@ navbar-text-col: "#FFF" #white
 navbar-border-col: "#EBAD21" #tulsa flag yellow
 page-col: "#F8F1E0" #Tulsa flag beige
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#C6202E"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#162b49"
+footer-text-col: "#FFF"
+footer-link-col: "#C6202E"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
