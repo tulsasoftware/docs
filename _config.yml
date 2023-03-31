@@ -36,7 +36,9 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+
+#I want nothing here, so I'm intentionally setting a bad link!
+title-img: /
 
 
 #####################################
@@ -91,7 +93,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "TulsaSoftware.github.io/docs/"
+url-pretty: "TulsaSoftware.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -114,7 +116,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "tulsa,local,software,consultant,open source"
+keywords: "tulsa,oklahoma,local,software,controls,iot,iiot,consultant,open source,manufacturing,electronics,electrical,engineer,industrial software,oil software"
 
 ######################################
 # --- Colours / background image --- #
@@ -249,7 +251,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
