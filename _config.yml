@@ -21,7 +21,9 @@ author: Tulsa Software
 ###############################################
 
 navbar-links:
-  Blog: "https://tulsasoftware.github.io/docs/blog/"
+  Projects:
+    - VfdCtl: "https://github.com/tulsasoftware/vfdctl"
+    - TagGateway: "https://github.com/tulsasoftware/ucontrol-genesis-tag-service"
 
 
 ################
