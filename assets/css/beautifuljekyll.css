@@ -418,6 +418,7 @@ footer .copyright {
 footer .theme-by {
   text-align: center;
   margin: 0.625rem 0 0;
+  display: none;
 }
 footer .footer-custom-content {
   text-align: center;
