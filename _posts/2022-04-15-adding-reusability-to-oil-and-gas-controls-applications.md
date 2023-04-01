@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ADDING REUSABILITY TO OIL & GAS CONTROLS APPLICATIONS
-subtitle: Leveraging IIoT In Practice by Corey Thompson
+subtitle: IIoT In Practice by Corey Thompson
 cover-img: /assets/img/genesis-system.png
 thumbnail-img: ""
 share-img: /assets/img/genesis-system.png

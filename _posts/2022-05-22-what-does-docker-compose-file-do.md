@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WHAT DOES A "DOCKER-COMPOSE" FILE DO?
-subtitle: Leveraging IIoT In Practice by Corey Thompson
+subtitle: IIoT In Practice by Corey Thompson
 cover-img: /assets/img/docker-compose-stack.png
 tags: [docker, compose]
 ---
