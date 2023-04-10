@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Docker Compose: A Tool for Defining and Running Multi-Container Applications
+title: Docker Compose - A Tool for Defining and Running Multi-Container Applications
 subtitle: IIoT In Practice by Corey Thompson
 cover-img: /assets/img/docker-compose-stack.png
 tags: [docker compose]
 ---
+
 If you are developing or deploying applications that consist of multiple containers, you might have faced the challenge of managing them efficiently. How do you start, stop, configure, and connect your containers? How do you ensure that they are running in a consistent and isolated environment? How do you scale and update them without downtime?
+
+# Why You Should Use Compose
 
 Docker Compose is a tool that was developed to help define and share multi-container applications. With Compose, you can create a YAML file to define the services that make up your application and their dependencies. Then, with a single command, you can create and start all the services from your configuration1.
 
