@@ -12,9 +12,9 @@ Node-RED is a low-code, visual programming tool that allows you to create IoT ap
 
 In this blog post series, we will show you how to use Node-RED for IoT in manufacturing. We will cover the following topics:
 
-- Part 1: What is Node-RED and why use it for IoT in manufacturing?
-- Part 2: How to install and run Node-RED on an IoT gateway?
-- Part 3: How to create a simple IoT application with Node-RED?
+- [Part 1: What is Node-RED and why use it for IoT in manufacturing?]({% post_url /2023-04-03-node-red-in-iot-manufacturing-part1 %})
+- [Part 2: How to install and run Node-RED on an IoT gateway?]({% post_url /2023-04-04-node-red-in-iot-manufacturing-part2 %})
+- [Part 3: How to create a simple IoT application with Node-RED?]({% post_url /2023-04-05-node-red-in-iot-manufacturing-part3 %})
 
 ## What is Node-RED and why use it for IoT in manufacturing?
 
@@ -40,9 +40,9 @@ In the next part of this blog post series, we will show you how to install and r
 
 Stay tuned!
 
-1. [What is Node-RED? | How Can I Use it to Create IoT Applications?](https://realpars.com/node-red/) Accessed 4/10/2023.
+1. [What is Node-RED? - How Can I Use it to Create IoT Applications?](https://realpars.com/node-red/) Accessed 4/10/2023.
 2. [Node-RED in Industrial IoT: a growing standard - United](https://learn.umh.app/blog/node-red-in-industrial-iot-a-growing-standard/) Accessed 4/10/2023.
 3. [Would you use Node-RED in a production environment for IoT industry](https://discourse.nodered.org/t/would-you-use-node-red-in-a-production-environment-for-iot-industry-applications/19358) Accessed 4/10/2023.
 4. [FlowForge nabs $7.2M to help companies integrate IoT using Node-RED](https://techcrunch.com/2022/11/03/flowforge-nabs-7-2m-to-help-companies-integrate-iot-using-node-red/) Accessed 4/10/2023.
-5. [What is Node-RED? | How Can I Use it to Create IoT Applications?](https://realpars.com/node-red/) Accessed 4/10/2023.
+5. [What is Node-RED? - How Can I Use it to Create IoT Applications?](https://realpars.com/node-red/) Accessed 4/10/2023.
 6. [IoT Gateways with Node-RED in the Internet of Things](https://www.welotec.com/iot-gateways-and-their-central-role-in-the-internet-of-things/) Accessed 4/10/2023.
