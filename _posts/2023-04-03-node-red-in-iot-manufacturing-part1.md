@@ -12,7 +12,7 @@ Node-RED is a low-code, visual programming tool that allows you to create IoT ap
 
 In this blog post series, we will show you how to use Node-RED for IoT in manufacturing. We will cover the following topics:
 
-- [Part 1: What is Node-RED and why use it for IoT in manufacturing?]({% post_url /2023-04-03-node-red-in-iot-manufacturing-part1 %})
+- Part 1: What is Node-RED and why use it for IoT in manufacturing?
 - [Part 2: How to install and run Node-RED on an IoT gateway?]({% post_url /2023-04-04-node-red-in-iot-manufacturing-part2 %})
 - [Part 3: How to create a simple IoT application with Node-RED?]({% post_url /2023-04-05-node-red-in-iot-manufacturing-part3 %})
 
