@@ -2,7 +2,7 @@
 layout: post
 title: Docker Compose - A Tool for Defining and Running Multi-Container Applications
 subtitle: IIoT In Practice by Corey Thompson
-cover-img: /assets/img/docker-compose-stack.png
+cover-img: /assets/img/md/octopus-containers-realistic1024x780.jpg
 tags: [docker compose]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: What Is An IoT Gateway?
 subtitle: IIoT In Practice by Corey Thompson
-cover-img: /assets/img/wireless-access-point1024x600.jpg
+cover-img: /assets/img/md/wireless-access-point1024x600.jpg
 tags: [iot, device gateway]
 ---
 
