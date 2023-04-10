@@ -37,8 +37,9 @@ Weidmueller u-control docker is a feature that allows you to run your own or thi
 
 ## Next Steps
 
-Now you're setup and ready to run a Docker app of your choosing. 
-For inspiration on your next steps, read our article about [running Node-RED in Docker on your UC20](({% post_url /2023-04-11-node-red-with-ucontrol %})) Happy coding!
+Now you're setup and ready to run a Docker app of your choosing. For inspiration on your next steps, read our upcoming article over running Node-RED in Docker on your UC20.
+
+Happy coding!
 
 ## References
 
