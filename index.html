@@ -3,10 +3,23 @@ layout: home
 title: Tulsa Software
 subtitle: Code as simple and reliable as the good ol' boys who wrote it.
 full-width: true
-cover-img: ["/assets/img/lg/tulsa-park-lg.jpg":"Centennial Park, Tulsa, OK","/assets/img/lg/tulsa-skyline-vector-lg.jpg":"downtown tulsa skyline illustration"]
+cover-img: ["/assets/img/lg/tulsa-park-lg.jpg":"Centennial Park, Tulsa, OK"]
 ---
 
 <html>
+  <head>
+    <style>
+      .hero::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(0,0,0,0.25);
+}
+    </style>
+  </head>
   <div class="row w-75 center flex-lg-row-reverse align-items-center g-5 py-5" style="display: flex; margin-bottom: 8rem;background: white;">
     <div class="col-10 col-sm-8 col-lg-6">
       <img src="assets/img/sm/vfd-panel-layout2.jpg" class="d-block mx-lg-auto img-fluid" alt="vfd panel" width="700" height="500" loading="lazy">
